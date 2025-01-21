@@ -8,3 +8,4 @@ match(x, ux)
 tabulate(match(x, ux)) # 3,2
 
 which.max(tabulate(match(x, ux)))# 3 maximum and it's 1
+ 
