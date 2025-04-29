@@ -1,0 +1,6 @@
+Disease,1st Best,2nd Best,3rd Best
+Bronchial Asthma,Logistic Regression (1.00),Random Forest (1.00),XGBoost (1.00)
+Hepatitis A,Logistic Regression (1.00),Random Forest (1.00),XGBoost (1.00)
+Hypoglycemia,Logistic Regression (1.00),Random Forest (1.00),XGBoost (1.00)
+Malaria,Logistic Regression (1.00),Random Forest (1.00),XGBoost (1.00)
+Osteoarthritis,Logistic Regression (1.00),Random Forest (1.00),XGBoost (1.00)
